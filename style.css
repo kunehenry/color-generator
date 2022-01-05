@@ -8,6 +8,16 @@ body {
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+  .gfg-div {
+    width: 200px;
+    height: 200px;
+    bbackground: linear-gradient(to right, red , yellow);
+	color: rgba(0,0,0,.5);
+  }
+}
+
 h1 {
 	font: 600 3.5em 'Raleway', sans-serif;
 	color: rgba(0,0,0,.5);
