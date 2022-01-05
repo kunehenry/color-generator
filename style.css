@@ -19,7 +19,7 @@ and (orientation: portrait) {
 }
 
 h1 {
-	font: 600 3.5em 'Raleway', sans-serif;
+	font: 10rem 4em 'Raleway', sans-serif;
 	color: rgba(0,0,0,.5);
 	text-align: center;
     text-transform: uppercase;
@@ -28,7 +28,7 @@ h1 {
 }
 
 h3 {
-	font: 900 1em 'Raleway', sans-serif;
+	font: 4rem 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
